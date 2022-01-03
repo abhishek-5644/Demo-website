@@ -206,3 +206,7 @@ text::selection{
   color: red;
   background: yellow;
 }
+.icon:hover{
+    width: 75px;
+    height: 75px;
+}
